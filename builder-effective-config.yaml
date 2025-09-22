@@ -1,0 +1,22 @@
+directories:
+  output: dist
+  buildResources: build
+appId: net.etalt.m0smarket
+publish:
+  - provider: github
+    owner: Nepherian
+    repo: m0s-update
+win:
+  target:
+    - nsis
+  artifactName: ${name}-${version}-win.${ext}
+nsis:
+  oneClick: true
+mac:
+  target:
+    - dmg
+linux:
+  target:
+    - AppImage
+files: []
+electronVersion: 37.2.6
