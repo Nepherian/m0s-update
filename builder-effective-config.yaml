@@ -6,6 +6,11 @@ publish:
   - provider: github
     owner: Nepherian
     repo: m0s-update
+extraResources:
+  - from: cee/
+    to: cee
+    filter:
+      - '**/*'
 win:
   target:
     - nsis
@@ -19,4 +24,4 @@ linux:
   target:
     - AppImage
 files: []
-electronVersion: 37.2.6
+electronVersion: 37.7.0
