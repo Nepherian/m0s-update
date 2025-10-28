@@ -1,8 +1,8 @@
-version: 0.2.3
+version: 0.2.4
 files:
-  - url: m0s-0.2.3-win.exe
-    sha512: 2zxi0fLEyMJWEGjaJUIbKCa88NtelOebM0zL2G1MnuH+kIqgJAvX6v84DJpDvvKIQuqiZfRZ/BFqY6oG6Rgrbw==
-    size: 92443092
-path: m0s-0.2.3-win.exe
-sha512: 2zxi0fLEyMJWEGjaJUIbKCa88NtelOebM0zL2G1MnuH+kIqgJAvX6v84DJpDvvKIQuqiZfRZ/BFqY6oG6Rgrbw==
-releaseDate: '2025-10-25T15:33:57.635Z'
+  - url: m0s-0.2.4-win.exe
+    sha512: cdJFwlxxBdvtqTThf5emXiMLy3g1J7J75CL+QVI4aZBrC21Y4r4SG7xulr5NNUtFIYkg+JfpcEyfCwntVnqemQ==
+    size: 92449700
+path: m0s-0.2.4-win.exe
+sha512: cdJFwlxxBdvtqTThf5emXiMLy3g1J7J75CL+QVI4aZBrC21Y4r4SG7xulr5NNUtFIYkg+JfpcEyfCwntVnqemQ==
+releaseDate: '2025-10-28T19:41:28.976Z'
